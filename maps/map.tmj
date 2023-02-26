@@ -175,7 +175,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"startup.json#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
