@@ -370,7 +370,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{ websiteURL }}}"
+                         "value":"https:\/\/www.codefor.de\/bielefeld\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -380,7 +380,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
+                         "value":"Dr\u00fccke SPACE oder tippe hier hin, um die Website zu \u00f6ffnen"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -389,56 +389,6 @@
                  "y":96
                 }],
          "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":61,
-         "name":"configuration",
-         "objects":[
-                {
-                 "class":"variable",
-                 "height":0,
-                 "id":20,
-                 "name":"websiteURL",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/workadventu.re\/admin-guide\/streaming-conferences"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Website URL"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":304.52245019328,
-                 "y":62.873476063039
-                }],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"editor"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
