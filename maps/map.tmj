@@ -213,7 +213,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"uniBielefeld.json#from-office"
+                         "value":"uniBielefeld.tmj#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
