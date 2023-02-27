@@ -365,7 +365,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.codefor.de\/bielefeld\/"
+                         "value":"https:\/\/uni-bielefeld.de\/open-science-network"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -387,12 +387,12 @@
                  "class":"area",
                  "height":36.4635095476347,
                  "id":22,
-                 "name":"website",
+                 "name":"oa",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.codefor.de\/bielefeld\/"
+                         "value":"https:\/\/oa.uni-bielefeld.de"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -412,14 +412,68 @@
                 }, 
                 {
                  "class":"area",
-                 "height":36.4635095476347,
-                 "id":23,
-                 "name":"website",
+                 "height":40.72222660912,
+                 "id":24,
+                 "name":"jupyter2",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.codefor.de\/bielefeld\/"
+                         "value":"https:\/\/mybinder.org\/v2\/gh\/KI-Campus\/Datengeschichten.git\/main?filepath=Jupyter%20Notebooks\/Datenvisualisierung_Barplot_I.ipynb"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":63.581769494079,
+                 "x":385.60461984576,
+                 "y":310.369921280098
+                }, 
+                {
+                 "class":"area",
+                 "height":40.72222660912,
+                 "id":25,
+                 "name":"jupyter1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/mybinder.org\/v2\/gh\/KI-Campus\/Datengeschichten.git\/main?filepath=Jupyter%20Notebooks\/Datenanalyse%20-%20R%20Basis%20I.ipynb"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":63.581769494079,
+                 "x":513.898471323003,
+                 "y":309.305242014727
+                }, 
+                {
+                 "class":"area",
+                 "height":36.4635095476347,
+                 "id":23,
+                 "name":"openapc",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/openapc.net"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -480,7 +534,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 109, 0, 0, 110, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -504,7 +558,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":24,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
