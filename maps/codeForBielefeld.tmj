@@ -380,7 +380,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke SPACE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
                         }],
                  "rotation":0,
                  "visible":true,
