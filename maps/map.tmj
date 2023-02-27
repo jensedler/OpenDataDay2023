@@ -283,7 +283,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"secret.json#from-office"
+                         "value":"secret.tmj#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
