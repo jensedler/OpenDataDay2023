@@ -684,7 +684,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.codefor.de\/bielefeld\/"
+                         "value":"..\/data\/OpenDataDay_Programm.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
