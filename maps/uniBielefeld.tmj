@@ -385,6 +385,33 @@
                 }, 
                 {
                  "class":"area",
+                 "height":50.2688736908184,
+                 "id":26,
+                 "name":"presentation",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"..\/data\/2023-03-04_open-data-day_OSN.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":86.3745553463067,
+                 "x":99.0721285441765,
+                 "y":363.725295044308
+                }, 
+                {
+                 "class":"area",
                  "height":36.4635095476347,
                  "id":22,
                  "name":"oa",
@@ -558,7 +585,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":26,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
