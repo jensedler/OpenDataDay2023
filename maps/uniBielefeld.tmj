@@ -601,7 +601,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"uniBielefeld.png"
         }, 
         {
          "name":"mapName",

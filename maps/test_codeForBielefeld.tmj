@@ -471,7 +471,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"codeForBielefeld.png"
         }, 
         {
          "name":"mapName",
