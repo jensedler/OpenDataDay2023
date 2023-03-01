@@ -213,9 +213,9 @@
                  "y":0
                 }, 
                 {
-                 "data":[0, 0, 0, 142, 143, 2147483790, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 152, 153, 2147483800, 0, 0, 0, 0, 0, 0, 62, 63, 63, 63, 64, 0, 90, 0, 0, 0, 90, 0,
-                    0, 0, 0, 1073741966, 1073741967, 3221225614, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 102, 0, 0, 0, 102, 0,
+                 "data":[0, 0, 0, 142, 143, 2147483790, 0, 0, 0, 0, 0, 0, 0, 142, 143, 2147483790, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 152, 153, 2147483800, 0, 0, 0, 0, 0, 0, 0, 152, 153, 2147483800, 0, 0, 90, 0, 0, 0, 90, 0,
+                    0, 0, 0, 1073741966, 1073741967, 3221225614, 0, 0, 0, 0, 0, 0, 0, 1073741966, 1073741967, 3221225614, 0, 0, 102, 0, 0, 0, 102, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -249,10 +249,10 @@
          "layers":[
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 2962, 0, 0, 0, 0, 0, 0, 0, 2963, 2964, 2965, 2966, 2967, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 2100, 0, 0, 0, 0, 0, 0, 0, 0, 3034, 3035, 3036, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2970, 2970, 2970, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2108, 2108, 2108, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -299,9 +299,9 @@
                 }, 
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 3749, 3750, 3701, 3702, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 3765, 3766, 3717, 3718, 0, 2969, 0, 0, 0, 166, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 3781, 3782, 3733, 3734, 0, 2968, 2969, 1610612935, 1610612945, 132, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 2887, 2888, 2839, 2840, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 2903, 2904, 2855, 2856, 0, 2107, 0, 0, 0, 166, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 2919, 2920, 2871, 2872, 0, 2106, 2107, 1610612935, 1610612945, 132, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -385,6 +385,33 @@
                 }, 
                 {
                  "class":"area",
+                 "height":45.5381916411388,
+                 "id":27,
+                 "name":"bicdas",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.uni-bielefeld.de\/einrichtungen\/bicdas\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":61.886167202973,
+                 "x":420.456627297731,
+                 "y":144.230171764849
+                }, 
+                {
+                 "class":"area",
                  "height":68.6827678109272,
                  "id":26,
                  "name":"presentation",
@@ -419,7 +446,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/oa.uni-bielefeld.de"
+                         "value":"https:\/\/www.ub.uni-bielefeld.de\/ub\/digital\/oa\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -585,7 +612,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":27,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -719,34 +746,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":6,
-         "firstgid":1827,
-         "image":"..\/tilesets\/WA_Logo_Long.png",
-         "imageheight":32,
-         "imagewidth":192,
-         "margin":0,
-         "name":"WA_Logo_Long",
-         "spacing":0,
-         "tilecount":6,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":25,
-         "firstgid":1833,
-         "image":"..\/tilesets\/WA_Exterior.png",
-         "imageheight":1088,
-         "imagewidth":800,
-         "margin":0,
-         "name":"WA_Exterior",
-         "spacing":0,
-         "tilecount":850,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":13,
-         "firstgid":2683,
+         "firstgid":1827,
          "image":"..\/tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
@@ -759,20 +760,7 @@
         }, 
         {
          "columns":6,
-         "firstgid":2956,
-         "image":"..\/tilesets\/code_for_bielefeld.png",
-         "imageheight":32,
-         "imagewidth":192,
-         "margin":0,
-         "name":"test",
-         "spacing":0,
-         "tilecount":6,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":2962,
+         "firstgid":2100,
          "image":"..\/tilesets\/uni_bielefeld.png",
          "imageheight":32,
          "imagewidth":192,
@@ -785,7 +773,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":2968,
+         "firstgid":2106,
          "image":"..\/tilesets\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
@@ -798,7 +786,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":3096,
+         "firstgid":2234,
          "image":"..\/tilesets\/modernset_interior.png",
          "imageheight":1600,
          "imagewidth":512,
@@ -810,15 +798,15 @@
          "tilewidth":32
         }, 
         {
-         "columns":19,
-         "firstgid":3896,
-         "image":"..\/tilesets\/modern_interiors.png",
-         "imageheight":7328,
-         "imagewidth":608,
+         "columns":3,
+         "firstgid":3034,
+         "image":"..\/tilesets\/bicdas.png",
+         "imageheight":32,
+         "imagewidth":96,
          "margin":0,
-         "name":"modern_interiors",
+         "name":"bicdas",
          "spacing":0,
-         "tilecount":4351,
+         "tilecount":3,
          "tileheight":32,
          "tilewidth":32
         }],
