@@ -143,7 +143,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"codeForBielefeld.tmj#from-office"
+                         "value":"\/@\/digitalisierungsburo-stadt-bielefeld\/open-data-day-2023-stadt-bielefeld\/codeForBielefeld#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -213,7 +213,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/@\/digitalisierungsburo-stadt-bielefeld\/open-data-day-2023-stadt-bielefeld\/test_uniBielefeld.tmj#from-office"
+                         "value":"\/@\/digitalisierungsburo-stadt-bielefeld\/open-data-day-2023-stadt-bielefeld\/test_uniBielefeld#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -283,7 +283,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"secret.tmj#from-office"
+                         "value":"\/@\/digitalisierungsburo-stadt-bielefeld\/open-data-day-2023-stadt-bielefeld\/secret#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
