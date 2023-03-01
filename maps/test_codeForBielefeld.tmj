@@ -84,7 +84,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-conference"
+                         "value":"\/@\/digitalisierungsburo-stadt-bielefeld\/open-data-day-2023-stadt-bielefeld\/test_map.tmj#from-conference"
                         }],
                  "type":"tilelayer",
                  "visible":true,
