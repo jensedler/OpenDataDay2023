@@ -213,7 +213,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/digitalisierungsburo-stadt-bielefeld\/open-data-day-2023-stadt-bielefeld\/test_uniBielefeld#from-office"
+                         "value":"\/@\/digitalisierungsburo-stadt-bielefeld\/open-data-day-2023-stadt-bielefeld\/uniBielefeld#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
