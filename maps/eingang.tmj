@@ -359,7 +359,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
+                 "class":"area",
                  "height":68.367078622141,
                  "id":2,
                  "name":"agenda",
