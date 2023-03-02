@@ -3376,7 +3376,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"die_leere.png"
+         "value":"eingang.png"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
