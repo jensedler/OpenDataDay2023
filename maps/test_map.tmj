@@ -890,7 +890,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/cryptpad.digitalcourage.de\/pad\/#\/2\/pad\/edit\/02758AyTB4wO+0HSyp3c-4rI\/"
+                         "value":"https:\/\/cryptpad.digitalcourage.de\/pad\/#\/2\/pad\/edit\/02758AyTB4wO+0HSyp3c-4rI\/embed\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
