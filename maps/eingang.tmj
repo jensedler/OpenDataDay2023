@@ -389,6 +389,33 @@
                  "width":119.642387588746,
                  "x":444.688929792268,
                  "y":160.302918748356
+                }, 
+                {
+                 "class":"area",
+                 "height":896.836598725902,
+                 "id":3,
+                 "name":"sound",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.2
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/mp3_timbregirlelevator.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":635.206589923376,
+                 "x":104.222003722229,
+                 "y":93.8308046108723
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -442,7 +469,7 @@
          "y":0
         }],
  "nextlayerid":30,
- "nextobjectid":3,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":[
         {
