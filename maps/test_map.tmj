@@ -557,7 +557,7 @@
                     0, 155, 167, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 165, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 167, 0, 0, 0, 0,
                     0, 213, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 167, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1073741867, 1073741868, 1073741867, 1073741868, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 167, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1577, 1580, 1580, 1580, 1580, 1578, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3311, 3312, 3313, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1105,6 +1105,134 @@
                  "width":342.860324937028,
                  "x":312.669333753149,
                  "y":90.2820978589421
+                }, 
+                {
+                 "class":"area",
+                 "height":44.8552560972344,
+                 "id":37,
+                 "name":"anfragen",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/open-data.bielefeld.de\/daten\/anfragen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um eine Datenanfrage zu stellen"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":45.7978837808881,
+                 "x":521.365439010915,
+                 "y":397.447815599679
+                }, 
+                {
+                 "class":"area",
+                 "height":44.8553,
+                 "id":38,
+                 "name":"suche",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/open-data.bielefeld.de\/search"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um nach offenen Daten zu suchen"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":45.7979,
+                 "x":457.24569608585,
+                 "y":396.778135843434
+                }, 
+                {
+                 "class":"area",
+                 "height":44.8553,
+                 "id":39,
+                 "name":"statistik",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/anwendungen.bielefeld.de\/BielefeldInteraktiv\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um interaktive Statistiken zu erkunden"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":45.7979,
+                 "x":393.963033526418,
+                 "y":396.778135843434
+                }, 
+                {
+                 "class":"area",
+                 "height":42.177923828648,
+                 "id":40,
+                 "name":"statistik",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/bielefeld01.de\/geo\/portal\/geoportal.php"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um das Bielefelder Geoportal zu erkunden"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":175.501901189945,
+                 "x":392.689329042094,
+                 "y":297.667545597204
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1158,7 +1286,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 5012, 5013, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 5014, 5015, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1073741879, 1073741880, 1073741879, 1073741880, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 111, 112, 111, 112, 111, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 122, 121, 122, 121, 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1187,7 +1315,7 @@
          "y":0
         }],
  "nextlayerid":70,
- "nextobjectid":36,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "properties":[
         {
