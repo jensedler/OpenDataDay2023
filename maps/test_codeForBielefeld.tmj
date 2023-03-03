@@ -387,6 +387,28 @@
                  "width":96,
                  "x":256,
                  "y":96
+                }, 
+                {
+                 "class":"area",
+                 "height":44.0936,
+                 "id":22,
+                 "name":"espresso",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/espresso.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":29.5963,
+                 "x":544.997404725166,
+                 "y":85.2270270060529
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -455,7 +477,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":22,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
