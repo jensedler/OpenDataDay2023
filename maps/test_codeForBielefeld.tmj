@@ -409,6 +409,28 @@
                  "width":29.5963,
                  "x":544.997404725166,
                  "y":85.2270270060529
+                }, 
+                {
+                 "class":"area",
+                 "height":31.6283588455269,
+                 "id":23,
+                 "name":"glass",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/glass.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":29.5963,
+                 "x":608.94334007575,
+                 "y":385.470699280851
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -477,7 +499,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {

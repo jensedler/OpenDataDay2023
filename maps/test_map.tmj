@@ -787,6 +787,50 @@
                  "width":29.5963215369059,
                  "x":62.1193605373393,
                  "y":274.428721652463
+                }, 
+                {
+                 "class":"area",
+                 "height":44.0936,
+                 "id":22,
+                 "name":"startup",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/mp3_computer.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":29.5963,
+                 "x":607.746862410916,
+                 "y":194.434236884597
+                }, 
+                {
+                 "class":"area",
+                 "height":44.0936,
+                 "id":23,
+                 "name":"startup",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/startup.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":29.5963,
+                 "x":322.452114823984,
+                 "y":127.24002285123
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -869,7 +913,7 @@
          "y":0
         }],
  "nextlayerid":70,
- "nextobjectid":22,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
