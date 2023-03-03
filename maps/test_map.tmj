@@ -1039,6 +1039,38 @@
                  "width":40.0930324687638,
                  "x":607.728486225266,
                  "y":186.476792085236
+                }, 
+                {
+                 "class":"area",
+                 "height":32.7979006637018,
+                 "id":33,
+                 "name":"nyan",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Push to nyan!"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":73.5532,
+                 "x":881.795763816963,
+                 "y":95.9111383874754
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1121,7 +1153,7 @@
          "y":0
         }],
  "nextlayerid":70,
- "nextobjectid":33,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {
