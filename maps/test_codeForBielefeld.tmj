@@ -343,7 +343,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"Vortrag"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -380,7 +380,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website von Code For Bielefeld zu \u00f6ffnen"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -431,6 +431,50 @@
                  "width":29.5963,
                  "x":608.94334007575,
                  "y":385.470699280851
+                }, 
+                {
+                 "class":"area",
+                 "height":23.7854,
+                 "id":24,
+                 "name":"croissant",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/croissant.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":29.5963,
+                 "x":480.934902066354,
+                 "y":141.525652670438
+                }, 
+                {
+                 "class":"area",
+                 "height":23.7854,
+                 "id":25,
+                 "name":"nom",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/nom.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":59.3211058298974,
+                 "x":419.088128646083,
+                 "y":142.005085022533
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -499,7 +543,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":24,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {

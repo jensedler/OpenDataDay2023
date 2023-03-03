@@ -652,7 +652,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"Tisch"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -694,7 +694,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Agenda zu \u00f6ffnen"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -726,7 +726,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Agenda zu \u00f6ffnen"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -758,7 +758,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um die Website zu \u00f6ffnen"
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um ein Video zu Open Data zu schauen"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -790,9 +790,31 @@
                 }, 
                 {
                  "class":"area",
+                 "height":23.7853825795373,
+                 "id":26,
+                 "name":"croissant",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/croissant.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":29.5963215369059,
+                 "x":62.1193605373393,
+                 "y":327.588439726767
+                }, 
+                {
+                 "class":"area",
                  "height":44.0936,
                  "id":22,
-                 "name":"startup",
+                 "name":"computer",
                  "properties":[
                         {
                          "name":"audioVolume",
@@ -831,6 +853,60 @@
                  "width":29.5963,
                  "x":322.452114823984,
                  "y":127.24002285123
+                }, 
+                {
+                 "class":"area",
+                 "height":64.4018069047903,
+                 "id":24,
+                 "name":"copier",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/copier.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":94.1047219328635,
+                 "x":609.380562220762,
+                 "y":383.520037892725
+                }, 
+                {
+                 "class":"area",
+                 "height":43.4081040616414,
+                 "id":25,
+                 "name":"note",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/app.mural.co\/t\/schulungsraum4857\/m\/schulungsraum4857\/1677879462019\/dadfa1d755e0da356e362e4cf81e5efe372dd399?sender=ube27c93456430d8f3d025035"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Dr\u00fccke die LEERTASTE oder tippe hier hin, um uns Feedback zu hinterlassen."
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":73.5532038585594,
+                 "x":804.520734111815,
+                 "y":108.50739224107
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -913,7 +989,7 @@
          "y":0
         }],
  "nextlayerid":70,
- "nextobjectid":24,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
