@@ -1086,7 +1086,7 @@
                          "value":true
                         }, 
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/open-data.bielefeld.de\/daten\/anfragen\/"
                         }, 
@@ -1118,7 +1118,7 @@
                          "value":true
                         }, 
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/open-data.bielefeld.de\/search\/"
                         }, 
