@@ -1216,7 +1216,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"..\/data\/nyan.mp3"
+                         "value":"..\/data\/nyany.mp3"
                         }],
                  "rotation":0,
                  "visible":true,
