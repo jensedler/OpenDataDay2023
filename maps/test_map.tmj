@@ -1042,38 +1042,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":52.247017568664,
-                 "id":33,
-                 "name":"nyan",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.nyan.cat\/index.php?cat=original"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Push to nyan!"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":73.5532,
-                 "x":881.795763816963,
-                 "y":95.9111383874754
-                }, 
-                {
-                 "class":"area",
                  "height":55.5818639798488,
                  "id":34,
                  "name":"silentZone_2",
@@ -1120,7 +1088,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/open-data.bielefeld.de\/daten\/anfragen"
+                         "value":"https:\/\/open-data.bielefeld.de\/daten\/anfragen\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1152,7 +1120,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/open-data.bielefeld.de\/search"
+                         "value":"https:\/\/open-data.bielefeld.de\/search\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1233,6 +1201,28 @@
                  "width":175.501901189945,
                  "x":392.689329042094,
                  "y":297.667545597204
+                }, 
+                {
+                 "class":"area",
+                 "height":48.6719271597304,
+                 "id":41,
+                 "name":"nyancat",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"..\/data\/nyan.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":56.9071736689135,
+                 "x":880.271909424278,
+                 "y":95.9410755642817
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1379,7 +1369,7 @@
          "y":0
         }],
  "nextlayerid":72,
- "nextobjectid":41,
+ "nextobjectid":42,
  "orientation":"orthogonal",
  "properties":[
         {
