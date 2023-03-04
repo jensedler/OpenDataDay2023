@@ -1247,14 +1247,14 @@
         }, 
         {
          "draworder":"topdown",
-         "id":23,
-         "name":"website",
+         "id":3,
+         "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
-                 "height":225.005983972986,
-                 "id":2,
-                 "name":"foosball",
+                 "class":"website",
+                 "height":207.653309257587,
+                 "id":4,
+                 "name":"kicker",
                  "properties":[
                         {
                          "name":"url",
@@ -1263,21 +1263,10 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":358.697951759123,
-                 "x":6268.36525936565,
-                 "y":6208.74582137136
+                 "width":314.605180915341,
+                 "x":6338.63462740468,
+                 "y":6165.01145912911
                 }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":3,
-         "name":"floorLayer",
-         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -1696,7 +1685,7 @@
          "y":0
         }],
  "nextlayerid":24,
- "nextobjectid":4,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
