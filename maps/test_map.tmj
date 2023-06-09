@@ -436,7 +436,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"..\/data\/OpenDataWeltInfo.png"
+                         "value":"..\/data\/Kontakt_Buerge_small.png"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
